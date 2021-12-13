@@ -1,0 +1,16 @@
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.exe
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.deps.json
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.runtimeconfig.dev.json
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\ref\FactoryPatternExercise2.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\net5.0\FactoryPatternExercise2.pdb
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\ref\FactoryPatternExercise2.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.pdb
+C:\Users\bmcwa\OneDrive\Desktop\Repo\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\net5.0\FactoryPatternExercise2.genruntimeconfig.cache
